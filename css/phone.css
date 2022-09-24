@@ -35,7 +35,7 @@
 
 /* client */
 #clients{
-    flex-wrap: wrap;
+    flex-wrap: hidden;
 }
 
 /* contact us section  */
